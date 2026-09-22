@@ -9,11 +9,10 @@ for i in range(60):
          for i in range(4):
                     t.forward(length)
                     t.left(90)
-        for i in range(4):
-            t.forward(length)
-            t.left(90)
     square(100)
     t.right(5)
-    length += 5+5
+    length = +5
+   
+   
     print(i)
 turtle.done()
