@@ -26,7 +26,7 @@ else:
 
 #QUIZ
  #integter
- x=7
+ #x=7
  #flloat= demical
 y=3.14
 #string
@@ -39,4 +39,4 @@ students.append("David")
 #print(students[4])
 for student in students:
     if( student == "David"):
-        print(student, "found!")
+        print(student, "found")
