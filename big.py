@@ -9,15 +9,8 @@ def square(length, angle):
             t.left(angle)
 length=5
 for i in range(60):
-
         print (i)
         square(length, 90)
         t.right(5)
         length+=5
-        square(length, 90)
-  
-    
-  
-   
-   
 turtle.done()
